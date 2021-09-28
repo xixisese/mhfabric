@@ -44,7 +44,7 @@
 #   - unit-test - runs the go-test based unit tests
 #   - verify - runs unit tests for only the changed package tree
 
-ALPINE_VER ?= 3.14
+ALPINE_VER ?= 3.13
 BASE_VERSION = 2.2.4
 
 # 3rd party image version
